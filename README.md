@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://istinye.edu.tr">
-    <img src="docs/assets/istinye-university-logo.webp" alt="İstinye Üniversitesi" width="180"/>
+    <img src="docs/assets/istinye-university-logo.png" alt="İstinye Üniversitesi" width="180"/>
   </a>
 
   # Aşamalı Kaba Kuvvet (Brute Force) Koruması ve Kilit Sistemi
