@@ -19,7 +19,7 @@
 ## Öğrenci Bilgisi
 | Ad Soyad | Öğrenci No |
 | :--- | :--- |
-| Gizem Kızılay | 20420191015 |
+| Gizem Kızılay | 2420191015 |
 
 ## Ders Bilgileri
 | Ders Adı | Ders Kodu | Kredi | Ön Koşullar | Dönem |
