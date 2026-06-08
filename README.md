@@ -28,3 +28,8 @@
 
 ## Proje Hakkında
 Bu proje, web uygulamalarına yönelik kaba kuvvet saldırılarını tespit etmek ve engellemek için geliştirilmiş bir güvenlik middleware/API katmanıdır. Gelen başarısız denemeler izlenerek sisteme kademeli gecikme (throttling) uygulanır ve maksimum sınıra ulaşıldığında hesap geçici bir UUID token ile kilitlenir.
+
+## Güvenlik Testleri ve Sonuçlar
+* **Rate Limiting:** `attack.py` ile yapılan 12 denemede, 10. denemeden sonra sistem başarıyla `403 Forbidden` yanıtı vermiştir.
+* **Veri Kalıcılığı:** SQLite veritabanı kullanılarak hesap kilitleme durumları kalıcı hale getirilmiştir.
+* **Güvenlik Başlıkları:** `Flask-Talisman` ile modern HTTP güvenlik başlıkları (CSP, HSTS) aktif edilmiştir.
