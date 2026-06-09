@@ -19,7 +19,7 @@
 ## Öğrenci Bilgisi
 | Ad Soyad | Öğrenci No |
 | :--- | :--- |
-| Gizem Kızılay | 242*****15 |
+| Gizem Kızılay | 242****015 |
 
 ## Ders Bilgileri
 | Ders Adı | Ders Kodu | Kredi | Ön Koşullar | Dönem |
